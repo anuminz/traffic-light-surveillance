@@ -82,4 +82,4 @@ docs/                   one document per project stage + UML diagrams
 | Git workflow & commit plan | [docs/GIT_WORKFLOW.md](docs/GIT_WORKFLOW.md) |
 
 ## Author
-<ANU MINZ> – <Roll no -2341013130>
+                                <ANU MINZ> – <Roll no -2341013130>
